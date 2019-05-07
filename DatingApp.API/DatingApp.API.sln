@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.API", "DatingApp.API.csproj", "{DBEC8BD5-9D14-412A-89DE-493A4EA1D8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEC8BD5-9D14-412A-89DE-493A4EA1D8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEC8BD5-9D14-412A-89DE-493A4EA1D8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEC8BD5-9D14-412A-89DE-493A4EA1D8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEC8BD5-9D14-412A-89DE-493A4EA1D8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
